@@ -1,0 +1,10 @@
+{
+    "dbType": "mysql",
+    "hostname": "192.168.4.42",
+    "port": 3306,
+    "database": "benchdb",
+    "ssl": false,
+    "user": "saad",
+    "password": "secret",
+    "versionType": "hash"
+}
